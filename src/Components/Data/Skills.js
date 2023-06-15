@@ -28,7 +28,11 @@ export const SkillsData = [
       icon:
         <i class="devicon-bootstrap-plain colored"></i>,
 
-    }]
+    },
+  {
+    name: 'Redux',
+    icon: <i class="devicon-redux-original colored"></i>,
+  }]
   },
   {
     type: 'Backend',
@@ -38,8 +42,16 @@ export const SkillsData = [
         <i class="devicon-nodejs-plain-wordmark colored"></i>,
     },
     {
-      name: 'Django',
-      icon: <i class="devicon-django-plain colored"></i>,
+      name: 'Express JS',
+      icon: 
+      <i class="devicon-express-original-wordmark colored"></i>,
+    },
+    {
+      name: 'MongoDB',
+      icon: 
+      
+      <i class="devicon-mongodb-plain-wordmark colored"></i>
+      ,
     },
     ],
   },

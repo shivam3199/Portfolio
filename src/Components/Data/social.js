@@ -16,7 +16,7 @@ export const SocialData = [
     },
     {
         platform: 'LinkedIn',
-        link: 'https://www.linkedin.com/in/shivam-raskonda-31august1999',
+        link: 'https://www.linkedin.com/in/raskonda/',
         icon: require('../../Assets/icons/linkedin.svg').default,
     },
 ];
